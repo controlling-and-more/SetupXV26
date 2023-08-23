@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/SetupXV26/SetupXV26K/Standardkonfiguration/Interm
+/SetupXV26/SetupXV26K_32/Standardkonfiguration/Interm
+/SetupXV26/SetupXV26M/Standardkonfiguration/Interm
+/SetupXV26/SetupKM26/Standardkonfiguration/Interm
